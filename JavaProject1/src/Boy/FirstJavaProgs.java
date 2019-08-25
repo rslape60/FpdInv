@@ -15,5 +15,6 @@ public class FirstJavaProgs {
 		System.out.println(r);
 
 		System.out.println(x=x++);
+		System.out.println(x=x++);
 	}
 }
